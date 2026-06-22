@@ -24,7 +24,7 @@ require([
             type: "park",
             longitude: -119.27058,
             latitude: 46.27349,
-            description: "Popular riverfront park in Richland."
+            description: "Popular riverfront park in Richland"
         },
 
         {
@@ -32,7 +32,7 @@ require([
             type: "park",
             longitude: -119.14554,
             latitude: 46.2224,
-            description: "Large riverside park with trails and recreation area"
+            description: "Large riverside park with trails and recreation areas"
         },
 
         {
@@ -40,7 +40,7 @@ require([
             type: "park",
             longitude: -119.2622,
             latitude: 46.311,
-            description: "Scenic waterfront park along the Columiba River"
+            description: "Scenic waterfront park along the Columbia River"
         },
 
         {
@@ -70,7 +70,7 @@ require([
         },
 
         {
-            name: "Candy Moutain Trail",
+            name: "Candy Mountain Trail",
             type: "trail",
             longitude: -119.3485,
             latitude: 46.2470,
@@ -93,6 +93,14 @@ require([
             description: "Nature preserve trail through native habitat"
         },
 
+        {
+            name: "Twin Sisters Trail",
+            type: "trail",
+            longitude: -119.3470,
+            latitude: 46.2360,
+            description: "Hiking area with ridge views near Badger Mountain"
+        },
+
         // CAMPGROUND 
 
         {
@@ -108,7 +116,7 @@ require([
         type: "campground",
         longitude: -118.7658,
         latitude: 46.3156,
-        description: "Camping and boating recreation area."
+        description: "Camping and boating recreation areas"
         },
 
         {
@@ -116,7 +124,7 @@ require([
             type: "campground",
             longitude: -119.3461,
             latitude: 45.9335,
-            description: "Campground and marina on the Columbia River."
+            description: "Campground and marina on the Columbia River"
         },
 
         {
@@ -124,7 +132,7 @@ require([
             type: "campground",
             longitude: -118.8446,
             latitude: 46.2562,
-            description: "Campground with fishing and boating access."
+            description: "Campground with fishing and boating access"
         },
 
         {
@@ -132,7 +140,7 @@ require([
             type: "campground",
             longitude: -119.8521,
             latitude: 45.8551,
-            description: "Riverside campground and recreation area."
+            description: "Riverside campground and recreation areas"
         },
 
         // ATTRACTIONS
@@ -142,7 +150,7 @@ require([
             type: "attraction",
             longitude: -119.2165,
             latitude: 46.236,
-            description: "Museum showcasing regional history and science."
+            description: "Museum showcasing regional history and science"
         },
 
         {
@@ -150,7 +158,7 @@ require([
             type: "attraction",
             longitude: -119.1863,
             latitude: 46.1809,
-            description: "Historic hand-carved carousel attraction."
+            description: "Historic hand-carved carousel attraction"
         },
 
         {
@@ -158,7 +166,7 @@ require([
             type: "attraction",
             longitude: -119.1162,
             latitude: 46.2177,
-            description: "Iconic lighthouse overlooking the Columbia River."
+            description: "Iconic lighthouse overlooking the Columbia River"
         },
 
         {
@@ -166,7 +174,7 @@ require([
             type: "attraction",
             longitude: -119.0931,
             latitude: 46.2328,
-            description: "Museum preserving local history and artifacts."
+            description: "Museum preserving local history and artifacts"
         },
 
         {
@@ -174,7 +182,7 @@ require([
             type: "attraction",
             longitude: -119.3007,
             latitude: 46.3186,
-            description: "Visitor area for the Hanford Reach National Monument."
+            description: "Visitor area for the Hanford Reach National Monument"
         }
     ];
 
