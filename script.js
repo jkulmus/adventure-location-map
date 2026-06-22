@@ -12,7 +12,7 @@ require([
         container: "viewDiv",
         map: map,
         center: [-119.1372, 46.2857],
-        zoom: 10
+        zoom: 9
     });
 
     const locations = [
@@ -216,7 +216,10 @@ require([
 
         const popupTemplate = {
             title: location.name,
-            content: location.description
+            content: `
+                <b>Type:</b> ${location.type}<br>
+                <b>Description:</b> ${location.description}
+            `
         };
 
         const pointGraphic = new Graphic({
