@@ -16,7 +16,7 @@ The map includes parks, trails, campgrounds, and attractions around the Tri-Citi
 The purpose of this project is to learn about and strengthen my understanding of GIS mapping, ArcGIS, JavaScript map libraries, and location-based data visualization.
 
 
-[Software Demo Video](https://youtu.be/N0CLOrR69CM)
+[Software Demo Video](https://youtu.be/2c_QM5vDVno)
 
 # Development Environment
 
